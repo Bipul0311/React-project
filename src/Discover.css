@@ -1,0 +1,17 @@
+.data{
+    background-color: rgb(46, 44, 44);
+    color: white;
+    width: cover;
+    padding: 100px;
+    border: 1px solid gray;
+    margin: 80px;
+}
+.data_desc{
+    font-family:  sans-serif;
+}
+.desc_end{
+    font-size: 20px;
+}
+.data_rating img{
+    background-color: black;
+}
